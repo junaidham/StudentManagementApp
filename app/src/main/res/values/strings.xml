@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">StudentManagementApp</string>
+    <string name="email">Enter Email</string>
+    <string name="pass">Enter Password</string>
+    <string name="submit">Submit</string>
+    <string name="reg">Registration</string>
+    <string name="show">Show All</string>
+    <string name="name">Enter Name</string>
+    <string name="mobile">Enter Mobile No</string>
+</resources>
